@@ -18,6 +18,3 @@ elif x == '2':
     x = round(int(input('TYPE THE VALUE: ')))
     print(fahr_to_cel(x), 'ºC')
 else: quit()
-
-while True:
-    x=0
